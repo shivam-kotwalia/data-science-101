@@ -1,0 +1,3 @@
+https://www.kaggle.com/nasirislamsujan/exploratory-data-analysis-lower-back-pain/notebook
+
+https://hackernoon.com/overview-of-exploratory-data-analysis-with-python-6213e105b00b
